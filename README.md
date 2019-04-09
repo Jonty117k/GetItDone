@@ -6,6 +6,11 @@ This is essentially a proof of concept and allowed me to get my feet wet with Re
 
 This is V1.0. Additional functionality will be built in later. However the essential features, ie user authentication and database logging currently function correctly. 
 
+https://chord-runner-1.firebaseapp.com/
+
+
+![alt text](https://media.giphy.com/media/TLmTaZCXuIw39lZO7s/giphy.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
