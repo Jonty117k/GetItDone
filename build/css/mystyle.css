@@ -1,0 +1,154 @@
+/*#background {
+	background-color: #d80027;
+	height: 100vh;
+  box-shadow: 0 0 76px rgba(0,0,0,0.9) inset;
+}*/
+body { 
+  background-color: #d80027;
+  box-shadow: 0 0 76px rgba(0,0,0,0.9) inset; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+.lbButton {
+  position: relative;
+  bottom: 46px;
+  right: 65px;
+  float: right;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+ }
+ .control-btn {
+  position: relative;
+  bottom: 40px;
+  right: 40px;
+  float: right;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+ }
+ /*
+ .lbButton:hover{
+    position: relative;
+    float: right;
+    width: 50px;
+    height: 50px;
+    animation: lbButton .4s steps(13);
+    background: url(../images/leaderboards.png) 0 -9100px no-repeat;
+    transition-duration: 5s;
+  }
+@keyframes lbButton {
+  0% { 
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 0 -9100;
+  }
+}*/
+/*
+.score-board {
+  font-family: 'Pattaya', sans-serif;
+  color: white;
+  font-size: 40px;
+}
+.answer-box {
+  background-color: white;
+  height: 60px;
+  width: 300px;
+  text-align: center;
+  border-radius: 30px;
+  font-weight: bold;
+  font-size: 30px;
+}
+.answer-box:hover {
+  position: relative;
+  top: 3px;
+}
+.a{
+
+}
+.b {
+  position: relative;
+  margin-top:90px;
+}
+.c{
+  position: relative; 
+  float: right;
+}
+.d {
+  position: relative;
+  margin-top:90px;
+  float: right;
+}
+.chord-ex {
+  height: 400px;
+}
+.timer {
+    width: 800px;
+    height: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    position: relative;
+    right: 180px;
+    background-color: white;
+    animation-name: timer;
+    animation-duration: 5s;
+}
+@keyframes timer {
+    100% {width: 0px;}
+}
+
+.game-canvas {
+  margin-top: 10px;
+}
+text {
+  margin-top: 10px;
+}
+
+img {
+  border-color: green;
+}
+.menuButton {
+  position: relative;
+  margin-top: 8px;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  float: right; 
+}
+.menuButton:hover {
+  position: relative;
+  top: 2px;
+}
+.menu {
+  position: relative;
+  right: 30px;
+}
+.username {
+  position: relative;
+  left: 60px;
+  bottom: 35px;
+  font-family: 'Pattaya', sans-serif;
+  color: white;
+  font-size: 25px;
+  cursor: pointer;  
+}
+.profile-pic {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: relative;
+    background-color: white;
+    cursor: pointer;
+}
+.user {
+  position: relative;
+  left: 50px;
+  top: 25px;
+}
+
+*/
