@@ -1,3 +1,9 @@
+GetItDone is my first finished project utilizing React. It's a weekly planner web application, where users can create accounts and log specific tasks that need to be completed for each day of the week. Firebase will log your email address to its cloud database and you'll be able to log in anywhere and add and delete items from your todo lists. 
+
+This is essentially a proof of concept and allowed me to get my feet wet with React and a simple database and hosting infrastructure such as Firebase. 
+
+This is V1.0. Additional functionality will be built in later. However the essential features, ie user authentication and database logging currently function correctly. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
