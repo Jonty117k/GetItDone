@@ -6,7 +6,7 @@ This is essentially a proof of concept and allowed me to get my feet wet with Re
 
 This is V1.0. Additional functionality will be built in later. However the essential features, ie user authentication and database logging currently function correctly. 
 
-To create a new account, type in an email address and password you want to use and press the add-user button. 
+## To create a new account, type in an email address and password you want to use and press the add-user button.
 
 https://chord-runner-1.firebaseapp.com/
 
